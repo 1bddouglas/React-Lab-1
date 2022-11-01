@@ -1,0 +1,34 @@
+.Votes .disappear {
+  display: none;
+}
+
+.Votes .block {
+  display: block;
+}
+
+.Votes .chocolate-container {
+  display: none;
+}
+
+.Votes .vanilla-container {
+  display: none;
+}
+
+.Votes .strawberry-container {
+  display: none;
+}
+
+.Votes #chocolate-graph {
+  background-color: #4f2c2c;
+  height: 30px;
+}
+
+.Votes #vanilla-graph {
+  background-color: #cbc0ac;
+  height: 30px;
+}
+
+.Votes #strawberry-graph {
+  background-color: #de8c91;
+  height: 30px;
+}
